@@ -20,6 +20,7 @@
 * [jInstagram](https://github.com/sachin-handiekar/jInstagram) — A Java library for the Instagram API
 * [instagram-bot.js](https://github.com/social-manager-tools/instagram-bot.js) — Instagram Bot made with love and nodejs
 * [InstagramKit](https://github.com/shyambhat/InstagramKit) — The unofficial Instagram iOS SDK
+* [instagram-api](https://github.com/NicklasWallgren/instagram-api) — PHP Instagram Private API
 
 
 
