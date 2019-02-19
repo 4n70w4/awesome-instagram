@@ -19,6 +19,7 @@
 * [instagram-node](https://github.com/totemstech/instagram-node) — NodeJS driver for the instagram API
 * [jInstagram](https://github.com/sachin-handiekar/jInstagram) — A Java library for the Instagram API
 * [instagram-bot.js](https://github.com/social-manager-tools/instagram-bot.js) — Instagram Bot made with love and nodejs
+* [InstagramKit](https://github.com/shyambhat/InstagramKit) — The unofficial Instagram iOS SDK
 
 
 
@@ -48,13 +49,6 @@
 * [Android-Instagram-Clone](https://github.com/mitchtabian/Android-Instagram-Clone) — Develop your own Instagram Clone App
 
 * [fluttergram](https://github.com/mdanics/fluttergram) — A working Instagram clone written in Flutter using Firebase / Firestore
-
-
-
-## Instagram SDK
-
-
-* [InstagramKit](https://github.com/shyambhat/InstagramKit) — The unofficial Instagram iOS SDK
 
 
 
